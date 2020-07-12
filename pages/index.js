@@ -1,5 +1,5 @@
 import React from 'react';
-import Layout from '../components/layout';
+import Layout from '../components/Layout';
 import { Jumbotron, Container } from 'reactstrap';
 import Fetch from 'isomorphic-unfetch';
 import { Table } from 'reactstrap';
